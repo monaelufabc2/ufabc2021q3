@@ -14,15 +14,13 @@ int main()
         }
         scanf("%d", &num);
     }
-
     if(!primeiro)
     {
         printf("%d\n", maior);
     }
     else
     {
-        printf("nenhum numero informado\n");
+        puts("nenhum numero informado");
     }
-
     return 0;
 }

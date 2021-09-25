@@ -5,7 +5,7 @@ int main()
     float media;
 
     scanf("%f", &media);
-    if(media >= 60)
+    if(media >= 60.f)
     {
         printf("APROVADO\n");
     }

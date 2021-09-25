@@ -14,7 +14,6 @@ int main()
         }
         scanf("%d", &num);
     }
-
     if(!primeiro)
     {
         printf("%d\n", maior);
