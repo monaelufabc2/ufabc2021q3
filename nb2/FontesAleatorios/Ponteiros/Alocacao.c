@@ -30,5 +30,8 @@ int main()
 
     printf("*ptA: %d\n", *ptA);
 
+    free(ptA);
+    free(ptB);
+
     return 0;
 }

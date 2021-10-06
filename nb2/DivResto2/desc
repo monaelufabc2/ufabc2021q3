@@ -1,0 +1,15 @@
+Faça uma função que receba dois valores inteiros maiores ou
+iguais a zero por valor e retorne por referência a divisão
+inteira e o resto da divisão inteira.
+Siga o protótipo:
+
+int divResto(int, int, int *, int *);
+
+Exemplo:
+
+Entrada                 Saida
+31 5                    6 1
+65 3                    21 2
+2 6                     0 2
+0 10                    0 0
+9 0                     indefinido
