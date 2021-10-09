@@ -22,7 +22,7 @@
       f(4) = 1 + 1 = 2
 
                    = 0, para n = 1
-      fibonacci(n) = 1, para n =2
+      fibonacci(n) = 1, para n = 2
                    = fibonacci(n-2) + fibonacci(n-1), para n > 2
 */
 
