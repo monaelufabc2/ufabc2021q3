@@ -24,7 +24,7 @@ int main()
                 contaAcima++;
             }
         }
-        printf("%.3f%%\n", (double)(contaAcima*100)/(double)n);
+        printf("%.3f%%\n", (float)(contaAcima*100)/n);
     }
     return 0;
 }
